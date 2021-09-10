@@ -1,5 +1,5 @@
 import React from 'react'
-import ImageOne from '../images/01-removebg-preview.png'
+import ImageOne from '../images/03-removebg-preview.png'
 import ImageTwo from '../images/02-removebg-preview.png'
 
 const WhatWeDo= () => {
