@@ -59,9 +59,8 @@ const Article = () => {
                                 </div>
                                 <div class="p-4">
                                     <span class="inline-block px-2 py-1 leading-none bg-orange-200 text-orange-800 rounded-full font-semibold uppercase tracking-wide text-xs">Wildlife</span>
-                                    <h2 class="mt-2 mb-2  font-bold">All about Fox</h2>
-                                    <p class="text-sm">Foxes are omnivorous mammals belonging to several genera of the family Canidae. 
-                                    They have a flattened skull, upright triangular ears, a pointed snout, and a long bushy tail.</p>
+                                    <h2 class="mt-2 mb-2  font-bold">The Fox: Stunning facts about the</h2>
+                                    <p class="text-sm">lorem</p>
                                 </div>
                                 <div class="p-4 border-t border-b font-bold text-xs text-gray-700">
                                     <span class="flex items-center">
